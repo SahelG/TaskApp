@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskApp.View.SignUp"
+             BackgroundColor="#112847">
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Image Source="taskIcon.png" WidthRequest="100" HeightRequest="100"></Image>
+
+            <Entry x:Name="txtFirstNameSU"
+                   Placeholder="Enter your firstname"
+                   TextColor="White"
+                   PlaceholderColor="White"/>
+            <Entry x:Name="txtLastNameSU"
+                   Placeholder="Enter your lastname"
+                   TextColor="White"
+                   PlaceholderColor="White"/>
+            <Entry x:Name="txtEmailSU"
+                   Placeholder="Enter your email"
+                   TextColor="White"
+                   PlaceholderColor="White"/>
+            <Entry x:Name="txtPasswordSU"
+                   Placeholder="Enter your password"
+                   IsPassword="True"
+                   TextColor="White"
+                   PlaceholderColor="White"/>
+
+            <Button Text="Sign Up"
+                    x:Name="btnSignUp"
+                    CornerRadius="10"
+                    TextColor="Black"
+                    Clicked="btnSignUp_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

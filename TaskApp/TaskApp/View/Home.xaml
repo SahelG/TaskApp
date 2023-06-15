@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskApp.View.Home">
+
+    <AbsoluteLayout>
+        <Frame BackgroundColor="LightBlue" CornerRadius="30" HasShadow="True"
+               AbsoluteLayout.LayoutFlags="PositionProportional"
+               AbsoluteLayout.LayoutBounds="1, 1, -1, -1"
+               Margin="10">
+            <Label Text=" + " TextColor="White" FontSize="20" FontAttributes="Bold"/>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+    </AbsoluteLayout>
+</ContentPage>

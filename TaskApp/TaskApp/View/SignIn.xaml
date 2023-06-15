@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskApp.View.SignIn"
+             BackgroundColor="#112847">
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Image Source="taskIcon.png" WidthRequest="100" HeightRequest="100"></Image>
+
+            <Entry x:Name="txtEmailSI"
+                   Placeholder="Enter your email"
+                   TextColor="White"
+                   PlaceholderColor="White"/>
+            <Entry x:Name="txtPasswordSI"
+                   Placeholder="Enter your password"
+                   IsPassword="True"
+                   TextColor="White"
+                   PlaceholderColor="White"/>
+
+            <Button Text="Sign In"
+                    x:Name="btnSignIn"
+                    CornerRadius="10"
+                    TextColor="Black"
+                    Clicked="btnSignIn_Clicked"/>
+
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Don't have an account?" TextColor="White"></Span>
+                        <Span Text=" "></Span>
+                        <Span Text="Register" TextColor="White" FontAttributes="Bold" TextDecorations="Underline"></Span>
+                    </FormattedString>
+                </Label.FormattedText>
+
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

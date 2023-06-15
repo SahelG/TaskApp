@@ -1,0 +1,38 @@
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\TaskApp.deps.json
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\TaskApp.dll
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\ref\TaskApp.dll
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\TaskApp.pdb
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.csproj.AssemblyReference.cache
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\SignIn.xaml.g.cs
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.AssemblyInfoInputs.cache
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.AssemblyInfo.cs
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.dll
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\ref\TaskApp.dll
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.pdb
+D:\Cristian\Documents\8vo semestre\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\SignUp.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\TaskApp.deps.json
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\TaskApp.dll
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\ref\TaskApp.dll
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\bin\Debug\netstandard2.0\TaskApp.pdb
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.csproj.AssemblyReference.cache
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\SignIn.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\SignUp.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.AssemblyInfoInputs.cache
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.AssemblyInfo.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.dll
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\ref\TaskApp.dll
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\TaskApp.pdb
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\Calendar.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\View\Profile.xaml.g.cs
+C:\Users\Apeach\Documents\8vo\MOVILES\UNIDAD 4\TaskApp\TaskApp\TaskApp\obj\Debug\netstandard2.0\MainV2.xaml.g.cs
